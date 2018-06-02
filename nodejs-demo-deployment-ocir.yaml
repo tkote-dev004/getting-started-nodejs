@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: nodejs-demo
-        image: iad.ocir.io/gse00014626/tadahisa.kotegawa@oracle.com/demorepo/nodejs-demo:latest
+        image: iad.ocir.io/gse00014626/demorepo/nodejs-demo:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
