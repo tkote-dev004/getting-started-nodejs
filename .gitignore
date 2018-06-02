@@ -1,3 +1,4 @@
 .wercker
+.kube
 node_modules
 package-lock.json
